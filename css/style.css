@@ -1,0 +1,153 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0px;
+}
+
+.navbar-container{
+  height: 200px;
+  background-color: rgb(172, 82, 82);
+}
+
+.img{
+  margin-left: 20%;
+}
+
+.box{
+  background-color: rgb(36, 34, 34);
+  margin-top: 25px;
+  color: white;
+}
+
+.inside-box{
+  margin: 0px 20%;
+  padding: 5px 0;
+}
+
+.image{
+  size: 20%;
+}
+.photofooter{
+  position: relative;
+  margin-right: 20%;
+  display: flex;
+  justify-content: left;
+  list-style: none;
+  padding: 0px;
+}
+
+.footer-link{
+  padding-right: 7px;
+  text-decoration: none;
+  font-size: small;
+  color: white;
+}
+
+.article-header-color-mayus{
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(128, 84, 168);
+}
+
+.article-header{
+  font-size: x-large;
+}
+
+.article-headline{
+  max-width: 500px;
+}
+
+.author-list{
+  list-style: none;
+  font-size: small;
+  text-decoration: underline;
+  font-size: small;
+}
+
+.article-time{
+  list-style: none;
+  position: relative;
+  justify-content: left;
+  display: flex;
+  padding: 0px;
+}
+
+.icons{
+  margin: 0 20%;
+}
+
+.social-icons{
+  height: 30px;
+  width: 30px;
+  border-radius: 6px;
+}
+
+.framework{
+  margin: 3% 15%;
+  text-align: justify;
+}
+
+.article-content{
+  margin: 0 7%;
+  text-align: justify;
+}
+
+.quote-mark-first{
+  display: flex;
+
+}
+
+.quote-mark{
+  font-size: 90px;
+}
+
+.quote{
+  font-size: xx-large;
+}
+
+.image1{
+  font-weight: bold;
+}
+
+.first-image{
+  width: 620px;
+  height: 349px;
+}
+
+.second-image{
+  width: 620;
+  height: 930;
+}
+
+.third-image{
+  width: 620px;
+  height: 611px;
+}
+
+.fourth-image{
+  width: 620px;
+  height: 411px;
+}
+
+.fifth-image{
+  width: 620px;
+  height: 441px;
+}
+
+.sixth-image{
+  width: 620px;
+  height: 931px;
+}
+
+.seventh-image{
+  width: 620px;
+  height: 349px;
+}
+
+.below-video{
+  background-color: black;
+  color: white;
+  padding: 10px 16px;
+  margin-right: 18%;
+  margin-top: none;
+}
