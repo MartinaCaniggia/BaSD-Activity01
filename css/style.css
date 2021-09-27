@@ -76,6 +76,10 @@ body{
   margin: 0 20%;
 }
 
+.line{
+  margin: 1% 20%;
+}
+
 .social-icons{
   height: 30px;
   width: 30px;
